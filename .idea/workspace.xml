@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="469c10f7-bebd-4977-8331-136cb97a1103" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/config_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/definitions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/cmd_user_interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/csv_generators/top_30_csv_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/http_management/http_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/http_management/itjobswatch_jobsearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/http_management/itjobswatch_jobsearch_url_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/itjobswatch_html_readers/contract_rates_job_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/itjobswatch_html_readers/itjobswatch_home_page_top_30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/itjobswatch_html_readers/perm_rates_job_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/reporting/multiple_search_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/test_csv_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/test_html_object_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/test_resources/itjobswatch_contract_test_page_stub.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/test_resources/itjobswatch_home_page_stub.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/test_resources/itjobswatch_perm_page_stub.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/test_top_30_html_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/config_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/definitions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/src/cmd_user_interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/src/csv_generators/top_30_csv_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/src/http_management/http_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/src/http_management/itjobswatch_jobsearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/src/http_management/itjobswatch_jobsearch_url_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/src/itjobswatch_html_readers/contract_rates_job_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/src/itjobswatch_html_readers/itjobswatch_home_page_top_30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/src/itjobswatch_html_readers/perm_rates_job_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/src/reporting/multiple_search_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/tests/test_csv_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/tests/test_html_object_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/tests/test_resources/itjobswatch_contract_test_page_stub.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/tests/test_resources/itjobswatch_home_page_stub.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/tests/test_resources/itjobswatch_perm_page_stub.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI/app/tests/test_top_30_html_reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/action_provision" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/action_provision" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/action_set_name" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/action_set_name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/chef_node_name" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/chef_node_name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/id" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/index_uuid" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/index_uuid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/private_key" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/private_key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/It_Jobs_Watch_Data_Package/python_Chef_project/python_cookbook/Policyfile.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/It_Jobs_Watch_Data_Package/python_Chef_project/python_cookbook/recipes/default.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/It_Jobs_Watch_Data_Package/python_Chef_project/python_cookbook/test/integration/default/default_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbooks/python_cookbook" beforeDir="false" afterPath="$PROJECT_DIR$/cookbooks/python_cookbook" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI" beforeDir="false" afterPath="$PROJECT_DIR$/cookbooks/python_cookbook_AMI" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ubuntu-bionic-18.04-cloudimg-console.log" beforeDir="false" afterPath="$PROJECT_DIR$/ubuntu-bionic-18.04-cloudimg-console.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/app" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aXBSbFYVg0qbhHvP1QqzDcHPgO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="469c10f7-bebd-4977-8331-136cb97a1103" name="Default Changelist" comment="" />
+      <created>1586872058389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586872058389</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="307" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586873109032">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="307" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.806@0.23.1440.806" timestamp="1586873109032" />
+    <state x="352" y="65" key="SettingsEditor" timestamp="1586873380229">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="352" y="65" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1586873380229" />
+  </component>
+</project>
